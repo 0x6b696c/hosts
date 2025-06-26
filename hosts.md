@@ -3,6 +3,12 @@
 #
 # Fetch the latest version of this file: https://list.unxlg.com/hosts.md
 # Project home page: www.unxlg.com
+# 
+# Mikrotik RouterOS v7.x
+#
+# Command:
+#
+#          /ip dns adlist add ssl-verify=no url=https://list.unxlg.com/hosts.md
 #
 # ===============================================================
 
