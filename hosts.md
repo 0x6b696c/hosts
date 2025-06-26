@@ -1,7 +1,7 @@
 # Title: arcotel
 #
 #
-# Fetch the latest version of this file: http://mk.unxlg.com/hosts
+# Fetch the latest version of this file: https://list.unxlg.com/hosts.md
 # Project home page: www.unxlg.com
 #
 # ===============================================================
