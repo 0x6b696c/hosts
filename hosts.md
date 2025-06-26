@@ -28,4 +28,6 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 shoesecu.com
 0.0.0.0 www.shoesecu.com
+:: shoesecu.com
+
 #End
