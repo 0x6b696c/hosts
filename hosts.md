@@ -30,7 +30,7 @@ ff02::3 ip6-allhosts
 
 #=====================================
 # Title: Hosts contributed by 0x6b
-# http://unxlg.com
+# https://unxlg.com
 
 0.0.0.0 shoesecu.com
 0.0.0.0 www.shoesecu.com
