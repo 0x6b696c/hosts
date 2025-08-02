@@ -39,5 +39,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 international-rentacars.com
 :: www.international-rentacars.com
 :: international-rentacars.com
+0.0.0.0 bjorkajukas.com
+:: bjorkajukas.com
 
 #End
