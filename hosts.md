@@ -41,5 +41,9 @@ ff02::3 ip6-allhosts
 :: international-rentacars.com
 0.0.0.0 bjorkajukas.com
 :: bjorkajukas.com
+0.0.0.0 disproauto.com
+0.0.0.0 www.disproauto.com
+:: disproauto.com
+:: www.disproauto.com
 
 #End
